@@ -357,7 +357,7 @@ def solver_13(file_name: str, value: str):
     # # Push the changes
     # subprocess.run(["git", "push"], check=True)
     # os.chdir(PWD)
-    return f"https://raw.githubusercontent.com/pradeepmondal/iitm_tds_assignments/refs/heads/main/email.json"
+    return f"https://raw.githubusercontent.com/Shambhavi2896/email-json-demo/refs/heads/main/email.json"
 
 def solver_14(temp_dir: str, file_path: str, file_name: str, existing_word: str, new_word: str, command: str):
     import tempfile
@@ -702,7 +702,7 @@ def solver_21(email_id: str):
 #     # Push the changes
 #     subprocess.run(["git", "push"], check=True)
 #     os.chdir(PWD)
-    return f"https://pradeepmondal.github.io/iitm_tds_assignments/"
+    return f"https://shambhavi2896.github.io/"
 
 
 def solver_22(email_id: str):
@@ -779,7 +779,7 @@ def solver_25(email: str):
 #     # Push the changes
 #     subprocess.run(["git", "push"], check=True)
 #     os.chdir(PWD)
-    return f'''https://github.com/pradeepmondal/iitm_tds_assignments'''
+    return f'''https://github.com/Shambhavi2896/test'''
     
 
 
@@ -1362,7 +1362,7 @@ def solver_44(email: str):
 #     # Push the changes
 #     subprocess.run(["git", "push"], check=True)
 #     os.chdir(PWD)
-    return f'''https://github.com/pradeepmondal/tds-actions-test'''
+    return f'''https://github.com/Shambhavi2896/test'''
 
 def solver_45(temp_dir: str, file_path: str, file_name: str, subject_whose_marks_to_be_calculated: str, marks_in_criterion_subject: int, criterion_subject: str, group_start_number: int, group_end_number: int):
     import tabula
